@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/catalyst_logbox_background" />
+    <item   android:width="200dp"
+        android:height="200dp"
+        android:gravity="center">
+        <bitmap android:gravity="center_horizontal"
+            android:src="@mipmap/ic_launcher"
+            android:width="400dp"
+            />
+    </item>
+</layer-list>
